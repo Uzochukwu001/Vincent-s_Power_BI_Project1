@@ -17,13 +17,13 @@ The aim was to evaluate the total influencers on LinkedIn, the influencing metri
 
 The following steps were taken:
 
--The data was ingested into Power Query for further exploration.
+- The data was ingested into Power Query for further exploration.
 
--The data was transformed and cleaned up to the set objectives; renaming or removing columns, checking for accuracy of data types, filtering out unnecessary rows etc.
+- The data was transformed and cleaned up to the set objectives; renaming or removing columns, checking for accuracy of data types, filtering out unnecessary rows etc.
 
--Appropriate visuals were created and designed on a report page to generate adequate insights. A slicer was added to show the variation in years as well as the LinkedIn logo.
+- Appropriate visuals were created and designed on a report page to generate adequate insights. A slicer was added to show the variation in years as well as the LinkedIn logo.
 
--The Visualisation can be seen as shown in the image below.
+- The Visualisation can be seen as shown in the image below.
 
 
 
